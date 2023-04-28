@@ -1644,7 +1644,7 @@ MonoBehaviour:
   - {fileID: 7732633495299172065, guid: 297a4ad2db419c540aa9ec5fe215e502, type: 3}
   scoreText: {fileID: 395245651}
   gameOverText: {fileID: 869423111}
-  isGameActive: 1
+  isGameActive: 0
   restartButton: {fileID: 2017386759}
 --- !u!4 &1482332790
 Transform:
